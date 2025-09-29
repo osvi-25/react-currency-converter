@@ -38,5 +38,5 @@ npm start
 ## 🧑‍💻 Usage
 1. **Enter** the amount in the input field.
 2. **Select** the source currency from the dropdown.
-3. **Select** the target from the dropdown.
+3. **Select** the target currency from the dropdown.
 4. The conversion result **updates dynamically**.
